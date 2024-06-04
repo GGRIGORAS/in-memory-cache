@@ -1,4 +1,4 @@
-in-memory cache of order objects that supports 
+In-memory cache of order objects that supports 
     adding new orders, removing existing orders and matching buy and sell orders. 
 		- On "order" is a request to buy or sell a financial security (eg. bond, stock, 
 		  commodity, etc.)
